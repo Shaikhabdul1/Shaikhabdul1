@@ -42,4 +42,5 @@ MSc Data Science (Distinction) — Cardiff Metropolitan University
 ---
 
 ### 📫 Connect
-[LinkedIn](www.linkedin.com/in/abdulbarishaikh01) · 
+[LinkedIn] www.linkedin.com/in/abdulbarishaikh01
+
