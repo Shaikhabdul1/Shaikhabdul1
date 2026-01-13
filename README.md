@@ -13,7 +13,11 @@ My work connects research methods with real-world applications — from clinical
 ---
 
 ### 📚 Research & NLP Projects
-- **Book Genre Classification** — MSc Dissertation (Text classification + feature engineering + ML)
+- **Bug Classification Using Machine Learning** — MSc Dissertation  
+Applied ML to automate software bug classification with models such as Neural Networks, Random Forest, Gradient Boosting, and Logistic Regression.  
+Evaluated performance using accuracy, precision, recall, F1-score, and ROC-AUC, showing ML outperforming traditional detection methods.  
+Proposed a pipeline for integrating ML-based bug triaging into software development workflows, improving efficiency and prioritization in QA processes.
+
 - **Sentiment Analysis Pipeline** — NLP + preprocessing + supervised learning
 - **Text Clustering Experiments** — Unsupervised learning + TF-IDF/Word2Vec embeddings
 
