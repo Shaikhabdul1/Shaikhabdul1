@@ -18,7 +18,11 @@ Applied ML to automate software bug classification with models such as Neural Ne
 Evaluated performance using accuracy, precision, recall, F1-score, and ROC-AUC, showing ML outperforming traditional detection methods.  
 Proposed a pipeline for integrating ML-based bug triaging into software development workflows, improving efficiency and prioritization in QA processes.
 
-- **Sentiment Analysis Pipeline** — NLP + preprocessing + supervised learning
+- **Sentiment Analysis: Amazon Prime vs Netflix Tweets**  
+Performed comparative sentiment analysis using NLP techniques, preprocessing, word clouds, and polarity scoring.  
+Used Tableau for visual storytelling and insight interpretation.  
+Findings indicated strong engagement (>10k tweets/day) with Amazon Prime showing more positive sentiment and lower subjectivity vs Netflix.
+
 - **Text Clustering Experiments** — Unsupervised learning + TF-IDF/Word2Vec embeddings
 
 ---
