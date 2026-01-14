@@ -1,6 +1,6 @@
 ### Hi, I'm Abdul Bari 👋
 
-I'm an MSc-trained Data Scientist with interests in **Healthcare AI**, **NLP**, and **Applied Machine Learning**.
+I'm Data Scientist with interests in **Healthcare AI**, **NLP**, and **Applied Machine Learning**.
 
 My work connects research methods with real-world applications — from clinical early-warning systems to classification and sentiment analysis projects. I'm particularly interested in using data and AI to improve healthcare outcomes and support digital health ecosystems.
 
